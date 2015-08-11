@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# AvrStudio Solution File, Format Version 11.00
+Project("{D1100916-62DA-4D80-A9B4-55A1E7CCEEB3}") = "Q_Psych_8-10-15", "Q_Psych_8-10-15\Q_Psych_8-10-15.avrgccproj", "{E0C7CFEE-59FD-4A2E-A8DE-70F45286ADAC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E0C7CFEE-59FD-4A2E-A8DE-70F45286ADAC}.Debug|AVR.ActiveCfg = Debug|AVR
+		{E0C7CFEE-59FD-4A2E-A8DE-70F45286ADAC}.Debug|AVR.Build.0 = Debug|AVR
+		{E0C7CFEE-59FD-4A2E-A8DE-70F45286ADAC}.Release|AVR.ActiveCfg = Release|AVR
+		{E0C7CFEE-59FD-4A2E-A8DE-70F45286ADAC}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
